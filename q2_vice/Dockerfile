@@ -1,4 +1,4 @@
-FROM cyversevice/jupyterlab-base:latest
+FROM cyversevice/jupyterlab-base:1.0.5
 
 USER root
 
